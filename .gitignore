@@ -4,8 +4,10 @@
 #
 
 #Custom gitignore
+Packages/packages-lock.json
 Assets/Sprites/
 Assets/Sprites.meta
+
 
 /[Ll]ibrary/
 /[Tt]emp/
